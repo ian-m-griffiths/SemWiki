@@ -40,9 +40,8 @@ bank/
 │   └── institution/
 │       └── organization/
 │           └── entity/
-└── geology/
-    └── formation/
-        └── geological/
+└── formation/
+    └── geological/
 ```
 
 Search finds the most specific match first, then traverses up the hierarchy.
