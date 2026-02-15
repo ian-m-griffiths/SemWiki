@@ -1,5 +1,11 @@
 # SemWiki
 
+
+## Note
+
+This project is a demonstration. While the tools are genuinely useful, the project is only 1 day old and has not been thoroughly tested at scale. Created through human-AI collaboration with the human providing architectural guidance.
+
+
 **A Semantic Wiki with Dual-Endian Architecture**
 
 Write naturally. Organize automatically. Search intelligently.
@@ -271,10 +277,6 @@ Inspired by:
 - Semantic Web and ontology engineering
 - Ward Cunningham's original wiki
 - The desire for knowledge to organize itself
-
-## Disclaimer
-
-This project is a demonstration. While the tools are genuinely useful, the project is only 1 day old and has not been thoroughly tested at scale. Created through human-AI collaboration with the human providing architectural guidance.
 
 ---
 
