@@ -1,0 +1,21 @@
+# SemWiki Dependencies
+# Install with: pip install -r requirements.txt
+
+# Core dependencies (all standard library)
+# - pathlib
+# - json
+# - re
+# - datetime
+# - difflib
+# - collections
+# - hashlib
+# - argparse
+# - typing
+
+# No external dependencies required!
+# SemWiki uses only Python standard library.
+
+# Optional: For development and testing
+# pytest>=7.0.0
+# black>=22.0.0
+# flake8>=4.0.0
