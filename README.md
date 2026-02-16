@@ -5,6 +5,14 @@
 
 This project is a demonstration.  Created through human-AI collaboration with the human providing architectural guidance.
 
+**A Semantic Wiki with Dual-Endian Architecture**
+
+Write naturally. Organize automatically. Search intelligently.
+
+MIT LICENSE - found in LICENSE file.
+
+SemWiki is designed for collaborative human and AI knowledge management, featuring associative memory, typed relationships, and automatic organization.
+
 ## The Humans Note
 It is part of an idea on how to self-organize knowledge from an emergent property of LLMs, using "is_a" typed links in a wiki format. An LLM will create an ontology backwards to the abstract class; when disambiguating word senses, they have ontologies.
 
@@ -17,14 +25,6 @@ The interesting part is that the simple creation of documents with typed links c
 This is effectively a prototype idea for another project, but I felt it may be useful enough on its own as an idea for someone else.
 
 The AI wrote pretty much everything else besides this note.
-
-**A Semantic Wiki with Dual-Endian Architecture**
-
-Write naturally. Organize automatically. Search intelligently.
-
-MIT LICENSE - found in LICENSE file.
-
-SemWiki is designed for collaborative human and AI knowledge management, featuring associative memory, typed relationships, and automatic organization.
 
 ## The Problem
 
