@@ -3,8 +3,20 @@
 
 ## Note
 
-This project is a demonstration. While the tools are genuinely useful, the project is only 1 day old and has not been thoroughly tested at scale. Created through human-AI collaboration with the human providing architectural guidance.
+This project is a demonstration.  Created through human-AI collaboration with the human providing architectural guidance.
 
+## The Humans Note
+It is part of an idea on how to self-organize knowledge from an emergent property of LLMs, using "is_a" typed links in a wiki format. An LLM will create an ontology backwards to the abstract class; when disambiguating word senses, they have ontologies.
+
+In reverse, this forms a depth of search specificity, which then will link to related articles.
+
+The simple need to create a type for a link implies a page, and creates a stub on processing.
+
+The interesting part is that the simple creation of documents with typed links creates an ontology, so information structure emerges from descriptions, classification grows from ontological links, a graph grows, and a search graph's specificity is the inverse of the ontology graph by depth. This emergent graph can be used for classification, disambiguation, search, and ontology.
+
+This is effectively a prototype idea for another project, but I felt it may be useful enough on its own as an idea for someone else.
+
+The AI wrote pretty much everything else besides this note.
 
 **A Semantic Wiki with Dual-Endian Architecture**
 
